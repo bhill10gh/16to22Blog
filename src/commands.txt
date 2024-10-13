@@ -1,0 +1,15 @@
+npx create-react-app 15tut
+
+npx install json-server
+
+http://localhost:3500/items
+
+
+npx json-server -p 3500 -w data/db.json
+
+npm i react-router-dom -S
+
+npm install date-fns --save
+
+
+
